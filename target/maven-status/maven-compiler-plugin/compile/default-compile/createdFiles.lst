@@ -1,0 +1,9 @@
+com/strelba/bot/model/UserRow.class
+com/strelba/bot/Main.class
+com/strelba/bot/model/UserSession.class
+com/strelba/bot/DiaryBot.class
+com/strelba/bot/Env.class
+com/strelba/bot/model/DiaryEntry.class
+com/strelba/bot/db/Database.class
+com/strelba/bot/model/SurveyStep.class
+com/strelba/bot/model/UserSession$AdminAction.class
